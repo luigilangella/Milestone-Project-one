@@ -2,3 +2,39 @@ body,
 html {
     padding-top: 25px;
 }
+
+.band_info {
+    padding-top: 30px;
+}
+
+.wrapper {
+    column-count: 4;
+    column-gap: 15px;
+    padding: 5px;
+}
+
+.img_band {
+    float: left;
+    width: fit-content;
+    object-fit: fill;
+}
+
+.audio {
+    padding-right: 20px;
+}
+
+.audio_samples {
+    position: relative;
+    float: left;
+    text-align: center;
+}
+
+.video_samples {
+    position: relative;
+    float: left;
+    text-align: center;
+}
+
+blockquote {
+    text-align: left;
+}
