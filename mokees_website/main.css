@@ -196,3 +196,12 @@ textarea {
 h2 {
     margin-bottom: 65px;
 }
+
+.h2_video {
+    margin-bottom: 20px;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
