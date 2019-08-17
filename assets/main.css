@@ -215,9 +215,11 @@ textarea {
     margin-top: 20px;
 }
 
-.img-thumbnail {
-    max-width: 100%;
+.thumbnail {
+    width: 200px;
     height: 200px;
+    border-radius: 0%;
+    float: left;
 }
 
 .image_group,
