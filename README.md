@@ -51,7 +51,7 @@ To run locally, you can clone this repository directly into the editor of your c
 All content in this portfolio site were written by me with some help from various snippets and template code found online. 
 
 ### Media
-All photos were taken from the google search engine, audio from the spotify api, video from youtube. 
+All photos were taken from the google search engine, audio from the soundcloud api, video from youtube. 
 
 ### Acknowledgements
 
