@@ -10,7 +10,7 @@ follow their latest tour dates.
 A live demo can be found [here](https://luigilangella.github.io/Milestone-Project-one/).
 
 ## Wireframe
-
+A basic mockup of the website before development [here] (New Mockup 1.png)
 
 
 ## UX
